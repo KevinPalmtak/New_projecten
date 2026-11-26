@@ -1,0 +1,17 @@
+{
+    "name": "kev-the-only-one/calculator_temp",
+    "autoload": {
+        "psr-4": {
+            "Project_calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KevinPalmtak",
+            "email": "9033660@student.zadkine.nl"
+        }
+    ],
+    "require": {
+        
+    }
+}
